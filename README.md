@@ -119,7 +119,7 @@ AVERAGE(ChargingSessions\[DurationMin])
 
 ## 🔗 Live Dashboard
 
-> 📎 \[View on Power BI (requires access)](https://app.powerbi.com/links/y\_1rxZlH\_3)
+> 📎 https://app.powerbi.com/links/7Dqjbn2R5s?ctid=ff28a236-881c-4b29-9b77-71405b66aca2&pbi_source=linkShare
 
 \---
 
